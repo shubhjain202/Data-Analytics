@@ -1,6 +1,7 @@
 The mystery starts here and provides you with just three pieces of information: the crime was a murder, and it occurred sometime on Jan. 15, 2018, in SQL City.
 Here is the database schema diagram.
-![Alt Text](/SQL%20Murder%20Mystery/Images/schema.png)
+
+![Alt Text](/SQL%20Murder%20Mystery/Images/Schema.png)
 
 The first query is to find the crime scene report for a murder on that date and time.
 
