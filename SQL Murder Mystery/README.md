@@ -2,6 +2,7 @@ The mystery starts here and provides you with just three pieces of information: 
 Here is the database schema diagram.
 
 The first query is to find the crime scene report for a murder on that date and time.
+![Alt Text](/SQL%20Murder%20Mystery/Images/q1.png)
 
 
 This leads us to try to find the two witnesses. We can do that in one query, placing an OR in between the two.
